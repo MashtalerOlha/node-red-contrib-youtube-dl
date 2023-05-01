@@ -18,7 +18,7 @@
   },
   "node-red": {
     "nodes": {
-      "youtube-download": "youtube-ytdl-ubos.js"
+      "youtube-download": "youtube-ytdl.js"
     }
   },
   "keywords": [
